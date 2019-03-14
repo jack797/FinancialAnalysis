@@ -6,6 +6,8 @@ public class SearchProject {
 		
 		String name = "";
 		
+	 
+		
 	}
 	
 
